@@ -1,0 +1,5 @@
+baseURL = 'https://blog.wtuchuan.com/'
+languageCode = 'en-us'
+title = '随便说说'
+theme = 'hugo-theme-stack'
+defaultContentLanguage = 'zh-cn'

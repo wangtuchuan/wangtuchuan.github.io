@@ -1,5 +1,6 @@
 baseURL = 'https://blog.wtuchuan.com/'
 languageCode = 'en-us'
 title = '随便说说'
-theme = 'hugo-theme-stack'
+# theme = 'hugo-theme-stack'
+theme = 'PaperMod'
 defaultContentLanguage = 'zh-cn'

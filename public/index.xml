@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>My New Hugo Site</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on My New Hugo Site</description>
+        <title>随便说说</title>
+        <link>https://blog.wtuchuan.com/</link>
+        <description>Recent content on 随便说说</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 19 Mar 2024 15:15:04 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 19 Mar 2024 15:15:04 +0800</lastBuildDate><atom:link href="https://blog.wtuchuan.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>First</title>
-        <link>http://localhost:1313/post/first/</link>
+        <link>https://blog.wtuchuan.com/post/first/</link>
         <pubDate>Tue, 19 Mar 2024 15:15:04 +0800</pubDate>
         
-        <guid>http://localhost:1313/post/first/</guid>
+        <guid>https://blog.wtuchuan.com/post/first/</guid>
         <description>&lt;h1 id=&#34;hahahah&#34;&gt;hahahah&lt;/h1&gt;
-</description>
-        </item>
-        <item>
-        <title>Hello</title>
-        <link>http://localhost:1313/hello/</link>
-        <pubDate>Tue, 19 Mar 2024 15:13:50 +0800</pubDate>
-        
-        <guid>http://localhost:1313/hello/</guid>
-        <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
 </description>
         </item>
         

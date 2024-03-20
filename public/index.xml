@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2024 土川</copyright>
-    <lastBuildDate>Wed, 20 Mar 2024 10:40:08 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 19:52:18 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>吾乃</title>
+      <link>http://localhost:1313/about/2024-03-20-index/</link>
+      <pubDate>Wed, 20 Mar 2024 19:52:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/2024-03-20-index/</guid>
+      <description>某少居竟陵，长于羊城，求学京师，终至天河程式工作者也。</description>
+    </item>
+    
     <item>
       <title>你好👋</title>
       <link>http://localhost:1313/posts/hello-world/</link>

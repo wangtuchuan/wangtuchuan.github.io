@@ -11,8 +11,12 @@
             "id": "792bf95b27d7bfa5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md"
+              }
             }
           }
         ]
@@ -140,38 +148,44 @@
   },
   "active": "792bf95b27d7bfa5",
   "lastOpenFiles": [
-    "public/posts/hello-world/index.html",
-    "public/posts/hello-world",
-    "public/posts/how-to-create-blog-on-obsidian/index.html",
-    "public/posts/index.xml",
-    "public/posts/index.html",
-    "public/posts/how-to-create-blog-on-obsidian",
-    "public/posts",
+    "public/minima.1710936285.js",
+    "resources/_gen/assets/sass/main.scss_d4bb56ca1e7730fcd3fa65c24067d10b.content",
+    "public/minima.1710936285.css",
+    "resources/_gen/assets/sass/main.scss_d4bb56ca1e7730fcd3fa65c24067d10b.json",
+    "public/minima.1710936285.css.map",
+    "content/about/2024-03-20-index.md",
+    "public/minima.1710936279.js",
+    "resources/_gen/assets/sass/main.scss_ce97817ef41f35aea29d50e6a5108f4f.content",
+    "public/minima.1710936279.css",
+    "resources/_gen/assets/sass/main.scss_ce97817ef41f35aea29d50e6a5108f4f.json",
+    "public/minima.1710936279.css.map",
+    "content/posts/2024-03-20-helloworld.md",
+    "public/minima.1710936267.js",
+    "themes/minima/exampleSite/content/placeholder-text.md",
+    "themes/minima/exampleSite/content/mermaid-graphs.md",
+    "themes/minima/exampleSite/content/math-typesetting.md",
+    "themes/minima/exampleSite/content/markdown-syntax.md",
+    "themes/minima/exampleSite/content/link.md",
+    "themes/minima/exampleSite/content/instruction.md",
+    "themes/minima/exampleSite/content/chinese.md",
+    "themes/minima/exampleSite/content/about.md",
+    "themes/minima/images/tn.png",
+    "themes/minima/images/screenshot.png",
+    "themes/minima/images/screenshot-dark.png",
+    "themes/minima/docs/README_CN.md",
+    "themes/minima/archetypes/default.md",
+    "themes/minima/README.md",
+    "themes/minima/exampleSite/content/search.zh-cn.md",
+    "themes/minima/exampleSite/content/search.md",
+    "themes/minima/exampleSite/content/mermaid-diagrams.md",
+    "themes/minima/exampleSite/content/markdown-syntax.zh-cn.md",
+    "themes/minima/static/texture.png",
     "content/post/2024-03-20-howtocreateblogonobsidian.md",
     "content/posts/2024-03-20-howtocreateblogonobsidian.md",
-    "content/posts/2024-03-20-helloworld.md",
-    "content/posts",
-    "public/minima.80118bdc9b72d202ee584ad671b0ae8ea99e06e91b188ee804be3e03b712a7b7.js",
-    "public/index.xml",
-    "public/index.json",
     "public/texture.png",
     "content/post/2024-03-20-helloworld.md",
     "content/post/first.md",
     "templates/New Post.md",
-    "themes/minima/static/texture.png",
-    "themes/minima/images/tn.png",
-    "themes/minima/images/screenshot.png",
-    "themes/minima/images/screenshot-dark.png",
-    "themes/minima/exampleSite/content/search.zh-cn.md",
-    "themes/minima/exampleSite/content/search.md",
-    "themes/minima/exampleSite/content/mermaid-diagrams.md",
-    "themes/minima/exampleSite/content/math-typesetting.md",
-    "themes/minima/exampleSite/content/markdown-syntax.zh-cn.md",
-    "themes/minima/exampleSite/content/markdown-syntax.md",
-    "themes/minima/exampleSite/content/link.md",
-    "themes/minima/exampleSite/content/about.md",
-    "themes/minima/archetypes/default.md",
-    "themes/minima/README.md",
     "content/hello.md"
   ]
 }

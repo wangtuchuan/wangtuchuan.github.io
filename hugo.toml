@@ -85,27 +85,27 @@ globalFontFamily = 'LXGW WenKai'
 
 [[menu.main]]
 name = "主页"
-url = "/"
+pageRef = "/"
 weight = 1
 
 [[menu.main]]
 name = "文章"
-url = "/post"
+pageRef = "/post"
 weight = 2
 
 [[menu.main]]
 name = "标签"
-url = "/tags"
+pageRef = "/tags"
 weight = 3
 
 [[menu.main]]
 name = "分类"
-url = "/categories"
+pageRef = "/categories"
 weight = 4
 
 [[menu.main]]
 name = "关于"
-url = "/about"
+pageRef = "/about"
 weight = 5
 
 [taxonomies]

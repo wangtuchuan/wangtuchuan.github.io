@@ -5,3 +5,6 @@
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 
+[submodule "themes/minima"]
+	path = themes/minima
+	url = https://github.com/mivinci/hugo-theme-minima/tree/ef4d32b9498d529957fc4a24214e34136b47994e

@@ -146,12 +146,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2695815d315d8a85",
+  "active": "30c5b5b40e8a5155",
   "lastOpenFiles": [
-    "obs_scripts/NewBlog.js",
+    "themes/minima/theme.toml",
+    "themes/minima/testdata/rss.xml",
+    "themes/minima/testdata",
+    "themes/minima/static/texture.png",
+    "themes/minima/static/favicon.ico",
+    "themes/minima/static",
+    "themes/minima/layouts/partials/plugin.html",
+    "themes/minima/layouts/partials/paginator.html",
+    "themes/minima/layouts/partials/math.html",
+    "themes/minima/layouts/partials/item.html",
+    "themes/minima/layouts/partials/header.html",
+    "themes/minima/layouts/partials/head.html",
+    "themes/minima/images/tn.png",
+    "themes/minima/images/screenshot.png",
+    "themes/minima/images/screenshot-dark.png",
+    "themes/minima/exampleSite/content/search.zh-cn.md",
+    "themes/minima/exampleSite/content/search.md",
+    "themes/minima/exampleSite/content/mermaid-diagrams.md",
+    "themes/minima/exampleSite/content/math-typesetting.md",
+    "themes/minima/exampleSite/content/markdown-syntax.zh-cn.md",
+    "themes/minima/exampleSite/content/markdown-syntax.md",
+    "themes/minima/exampleSite/content/link.md",
+    "themes/minima/exampleSite/content/about.md",
+    "themes/minima/archetypes/default.md",
+    "themes/minima/README.md",
     "content/hello.md",
-    "content/post/first.md",
-    "obs_scripts/new_blog.js",
-    "obs_scripts"
+    "content/post/first.md"
   ]
 }

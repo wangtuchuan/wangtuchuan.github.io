@@ -1,16 +1,59 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "dad3cbd9-4bf9-40bb-b092-63a2d66ad6d7",
+      "name": "新建博客",
+      "type": "Macro",
+      "command": false,
+      "macroId": "13032270-ea1c-4795-9d2a-6a833ea0f82e"
+    }
+  ],
   "macros": [
     {
-      "name": "create_blog",
-      "id": "51e2b4e6-3005-4627-89f8-0b8fe3c19f24",
+      "name": "新建博客",
+      "id": "13032270-ea1c-4795-9d2a-6a833ea0f82e",
       "commands": [
         {
           "name": "NewBlog",
           "type": "UserScript",
-          "id": "9d37fc15-9135-487f-b4cf-52bee95d02d6",
+          "id": "b6e53843-c46e-4b7c-8f9a-64e2c054f23c",
           "path": "obs_scripts/NewBlog.js",
           "settings": {}
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "28c2c02f-62ea-43b5-884c-a0f2f8e872ac",
+          "choice": {
+            "id": "3316a3d7-112e-4d48-8684-b03eebca74d9",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/New Post.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE}}-{{VALUE:articleFilename}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "content/post"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
         }
       ],
       "runOnStartup": false
@@ -18,7 +61,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "templates",
   "announceUpdates": true,
   "version": "1.8.1",
   "disableOnlineFeatures": true,

@@ -1,39 +1,19 @@
-const util = require('util');
-const child_process = require('child_process');
-const exec = util.promisify(child_process.exec);
+module.exports = async (params) => {
+    QuickAdd = params;
 
-  
-function getCreateTimeAsFileName() {
-     var d = new Date();
-     var year = d.getFullYear();
-     var month = d.getMonth()+1;
-     var day = d.getDate();
-     var hour = d.getHours();
-     var minute = d.getMinutes();
-     var second = d.getSeconds();
-     var time = year+"m"+month+"d"+day+"h"+hour+"m"+minute+"s"+second;
-     return time;
-}
+    const title = await QuickAdd.quickAddApi.inputPrompt("Blog - Title");
+    var slug = await QuickAdd.quickAddApi.inputPrompt("Blog - Slug");
+    const category = await QuickAdd.quickAddApi.checkboxPrompt(["计算机", "知行", "折腾"], ["计算机"]);
 
-  
+    if (typeof slug === 'undefined') {
+        slug = title;
+    }
 
-// execute command function
+    QuickAdd.variables["articleTitle"] = title;
+    QuickAdd.variables["articleSlug"] = slug;
+    QuickAdd.variables["articleFilename"] = slug.toLowerCase().replace(/[^A-Za-z0-9\s]/g, '').replace(/\s+/g, '-');
+    QuickAdd.variables["articleCategory"] = category;
+    QuickAdd.variables["articleTimestamp"] = QuickAdd.quickAddApi.date.now('YYYY-MM-DDTHH:mm:ssZ');
 
-async function executeCommand() {
-     const fileName = getCreateTimeAsFileName()+".md";
-     const { stdout, stderr } = await exec('hugo new posts/' +fileName,{cwd: app.fileManager.vault.adapter.basePath});
-     console.log('stdout:', stdout);
-     console.log('stderr:', stderr);
-     if (stdout) {
-         new Notice("New Blog Created["+fileName+"]")
-     }else{
-         new Notice("New Blog Create Faild. "+stderr)
-     }
-}
-
-  
-
-module.exports = async function(context, req) {
-    await executeCommand();
-}
-
+    console.log(QuickAdd.variables);
+};

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f6e0207322ee9b9d",
+        "id": "a058ca280e5c81fa",
         "type": "tabs",
         "children": [
           {
-            "id": "2695815d315d8a85",
+            "id": "792bf95b27d7bfa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/first.md",
+                "file": "content/post/2024-03-20-howtocreateblogonobsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "403e6736157666f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2024-03-20-helloworld.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/first.md",
+                "file": "content/post/2024-03-20-helloworld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/first.md",
+                "file": "content/post/2024-03-20-helloworld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/first.md"
+                "file": "content/post/2024-03-20-helloworld.md"
               }
             }
           }
@@ -146,8 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "30c5b5b40e8a5155",
+  "active": "403e6736157666f6",
   "lastOpenFiles": [
+    "content/post/2024-03-20-howtocreateblogonobsidian.md",
+    "content/post/2024-03-20-helloworld.md",
+    "content/post/first.md",
+    "templates/New Post.md",
+    "templates",
     "themes/minima/theme.toml",
     "themes/minima/testdata/rss.xml",
     "themes/minima/testdata",
@@ -158,8 +176,6 @@
     "themes/minima/layouts/partials/paginator.html",
     "themes/minima/layouts/partials/math.html",
     "themes/minima/layouts/partials/item.html",
-    "themes/minima/layouts/partials/header.html",
-    "themes/minima/layouts/partials/head.html",
     "themes/minima/images/tn.png",
     "themes/minima/images/screenshot.png",
     "themes/minima/images/screenshot-dark.png",
@@ -173,7 +189,6 @@
     "themes/minima/exampleSite/content/about.md",
     "themes/minima/archetypes/default.md",
     "themes/minima/README.md",
-    "content/hello.md",
-    "content/post/first.md"
+    "content/hello.md"
   ]
 }

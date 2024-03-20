@@ -11,28 +11,11 @@
             "id": "792bf95b27d7bfa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/2024-03-20-howtocreateblogonobsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "403e6736157666f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/2024-03-20-helloworld.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2024-03-20-helloworld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2024-03-20-helloworld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/2024-03-20-helloworld.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,23 +138,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "403e6736157666f6",
+  "active": "792bf95b27d7bfa5",
   "lastOpenFiles": [
+    "public/posts/hello-world/index.html",
+    "public/posts/hello-world",
+    "public/posts/how-to-create-blog-on-obsidian/index.html",
+    "public/posts/index.xml",
+    "public/posts/index.html",
+    "public/posts/how-to-create-blog-on-obsidian",
+    "public/posts",
     "content/post/2024-03-20-howtocreateblogonobsidian.md",
+    "content/posts/2024-03-20-howtocreateblogonobsidian.md",
+    "content/posts/2024-03-20-helloworld.md",
+    "content/posts",
+    "public/minima.80118bdc9b72d202ee584ad671b0ae8ea99e06e91b188ee804be3e03b712a7b7.js",
+    "public/index.xml",
+    "public/index.json",
+    "public/texture.png",
     "content/post/2024-03-20-helloworld.md",
     "content/post/first.md",
     "templates/New Post.md",
-    "templates",
-    "themes/minima/theme.toml",
-    "themes/minima/testdata/rss.xml",
-    "themes/minima/testdata",
     "themes/minima/static/texture.png",
-    "themes/minima/static/favicon.ico",
-    "themes/minima/static",
-    "themes/minima/layouts/partials/plugin.html",
-    "themes/minima/layouts/partials/paginator.html",
-    "themes/minima/layouts/partials/math.html",
-    "themes/minima/layouts/partials/item.html",
     "themes/minima/images/tn.png",
     "themes/minima/images/screenshot.png",
     "themes/minima/images/screenshot-dark.png",

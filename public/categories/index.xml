@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 土川</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on 土川</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 土川</copyright>
+    <lastBuildDate>Wed, 20 Mar 2024 10:40:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>知行</title>
+      <link>http://localhost:1313/categories/%E7%9F%A5%E8%A1%8C/</link>
+      <pubDate>Wed, 20 Mar 2024 10:40:08 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E7%9F%A5%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>计算机</title>
+      <link>http://localhost:1313/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/</link>
+      <pubDate>Wed, 20 Mar 2024 10:36:16 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

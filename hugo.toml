@@ -5,3 +5,117 @@ title = '土川'
 # theme = 'PaperMod'
 theme = 'minima'
 defaultContentLanguage = 'zh-cn'
+copyright = "© 2024 土川"
+paginate = 12
+
+[author]
+name = "土川"
+slogon = "程序员"
+
+[params]
+subtitle = ""
+switch = [ "🌚", "🌝" ]
+defaultTheme = "light"
+displayDate = true
+displayDescription = true
+selectable = true
+# timeformat, no matter what format to use, make it the second day of Jan. 2006
+timeformat = "Jan 02, 2006"
+# custom global font. notice: `globalFontFamily` won't be working
+# on texts in some special positions like on titles
+# globalFontFamily = 'Helvatica sans-serif'
+globalFontFamily = 'LXGW WenKai'
+
+  [[params.social]]
+  name = "github"
+  url = "https://github.com/wangtuchuan"
+
+  [[params.social]]
+  name = "rss"
+  url = "/index.xml"
+
+  [params.math]
+  enable = false
+  provider = "katex"
+
+  [params.diagram]
+  enable = false
+  provider = "mermaid"
+
+  [params.comment]
+  enable = true
+  provider = "giscus"
+
+    [params.comment.disqus]
+    shortname = "hugo-minima"
+
+    [params.comment.utterances]
+    repo = "mivinci/hugo-theme-minima"
+    issueTerm = "pathname"
+    label = "comment"
+
+    [params.comment.giscus]
+    repo = "mivinci/hugo-theme-minima"
+    repoId = "MDEwOlJlcG9zaXRvcnkzODcxMjM2NDU="
+    category = "Comments"
+    categoryId = "DIC_kwDOFxMJvc4CScQm"
+    mapping = "pathname"
+    inputPosition = "buttom"
+    reactions = true
+    metadata = false
+
+  [params.search]
+  enable = true
+  provider = "fuse"
+  title = "Search"
+  placeholder = "请输入"
+
+    [params.search.fuse]
+    keys = [ "title", "permalink", "summary", "content" ]
+    distance = 100
+    location = 0
+    threshold = 0.6
+    ignoreLocation = false
+    isCaseSensitive = false
+    includeScore = false
+    includeMatches = false
+    minMatchCharLength = 1
+    shouldSort = true
+    findAllMatches = false
+
+[[menu.main]]
+name = "主页"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "文章"
+url = "/post"
+weight = 2
+
+[[menu.main]]
+name = "标签"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "分类"
+url = "/categories"
+weight = 4
+
+[[menu.main]]
+name = "关于"
+url = "/about"
+weight = 5
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[markup.highlight]
+lineNos = true
+noClasses = false

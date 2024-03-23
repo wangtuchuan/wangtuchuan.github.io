@@ -15,7 +15,7 @@ slogon = "琴（二胡）、棋（云顶）、书（赵孟頫）、画（这个�
 [params]
 subtitle = ""
 switch = [ "🌚", "🌝" ]
-defaultTheme = "light"
+defaultTheme = "system"
 displayDate = true
 displayDescription = true
 selectable = true

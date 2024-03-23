@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a058ca280e5c81fa",
+        "id": "d79063c891e041e6",
         "type": "tabs",
         "children": [
           {
-            "id": "792bf95b27d7bfa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "703104795e7344fe",
+            "id": "b02603bbb55493d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/posts/2024-03-23-picgowithcfpicturebed.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,8 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "703104795e7344fe",
+  "active": "b02603bbb55493d9",
   "lastOpenFiles": [
+    "public/categories/折腾/index.xml",
+    "public/categories/折腾",
+    "content/about/2024-03-20-index.md",
     "content/posts/2024-03-20-howtocreateblogonobsidian.md",
     "content/posts/2024-03-23-picgowithcfpicturebed.md",
     "CNAME",
@@ -172,7 +162,6 @@
     "themes/minima/layouts/shortcodes/mermaid.html",
     "themes/minima/layouts/partials/utterances.html",
     "themes/minima/layouts/partials/toc.html",
-    "themes/minima/layouts/partials/paginator.html",
     "themes/minima/images/tn.png",
     "themes/minima/images/screenshot.png",
     "themes/minima/images/screenshot-dark.png",
@@ -199,8 +188,6 @@
     "themes/minima_bak/exampleSite/content/instruction.md",
     "themes/minima_bak/exampleSite/content/link.md",
     "themes/minima_bak/exampleSite/content/chinese.md",
-    "themes/minima_bak/exampleSite/content/about.md",
-    "themes/minima_bak/docs/README_CN.md",
     "themes/minima_bak/images/tn.png",
     "themes/minima_bak/images/screenshot.png",
     "themes/minima_bak/images/screenshot-dark.png",

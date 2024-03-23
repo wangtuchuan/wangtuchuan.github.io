@@ -9,7 +9,7 @@ tags:
   - blog
   - 最佳实践
 toc: true
-draft: true
+draft: false
 ---
 在HUGO 目录下创建子目录 templates 和 scripts。设置 Templater 的`Template folder location` 为 `templates`
 

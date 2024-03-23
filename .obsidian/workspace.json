@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "792bf95b27d7bfa5",
+  "active": "30c5b5b40e8a5155",
   "lastOpenFiles": [
+    "CNAME",
     "themes/minima/theme.toml",
     "themes/minima/testdata/rss.xml",
     "themes/minima/testdata",
@@ -158,7 +159,6 @@
     "themes/minima/layouts/partials/toc.html",
     "themes/minima/layouts/partials/paginator.html",
     "themes/minima/layouts/partials/ovo.html",
-    "themes/minima/layouts/partials/mermaid.html",
     "themes/minima/images/tn.png",
     "themes/minima/images/screenshot.png",
     "themes/minima/images/screenshot-dark.png",

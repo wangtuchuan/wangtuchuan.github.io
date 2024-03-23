@@ -10,7 +10,8 @@ paginate = 12
 
 [author]
 name = "土川"
-slogon = "少居竟陵，长于羊城，求学京师，现天河程式工作者"
+# slogon = "少居竟陵，长于羊城，求学京师，现天河程式工作者"
+slogon = "琴棋书画样样精通"
 
 [params]
 subtitle = ""

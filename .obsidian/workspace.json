@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024-03-23-picgowithcfpicturebed.md",
+                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-03-23-picgowithcfpicturebed.md",
+                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024-03-23-picgowithcfpicturebed.md",
+                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024-03-23-picgowithcfpicturebed.md"
+                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md"
               }
             }
           }
@@ -143,24 +143,25 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "88e3c39b2aaf1c51",
   "lastOpenFiles": [
-    "public/minima.1711190230.js",
-    "resources/_gen/assets/sass/main.scss_7b086047ca0386d1ce8ccd050e4cf106.content",
-    "public/minima.1711190230.css",
-    "resources/_gen/assets/sass/main.scss_7b086047ca0386d1ce8ccd050e4cf106.json",
-    "public/minima.1711190230.css.map",
-    "public/minima.1711190229.js",
-    "resources/_gen/assets/sass/main.scss_1184d7dd2af0217a9eecfccaab530595.content",
-    "public/minima.1711190229.css",
-    "resources/_gen/assets/sass/main.scss_1184d7dd2af0217a9eecfccaab530595.json",
-    "public/minima.1711190229.css.map",
-    "public/minima.1711190227.js",
+    "templates/New Post.md",
     "content/posts/2024-03-20-howtocreateblogonobsidian.md",
     "content/posts/2024-03-23-picgowithcfpicturebed.md",
+    "public/minima.1711190948.js",
+    "public/minima.1711190948.css",
+    "resources/_gen/assets/sass/main.scss_e1e8fe208ab6c4e9860a1cfed6888c95.json",
+    "resources/_gen/assets/sass/main.scss_e1e8fe208ab6c4e9860a1cfed6888c95.content",
+    "resources/_gen/assets/sass",
+    "resources/_gen/assets",
+    "resources/_gen",
+    "resources",
+    "public/minima.1711190948.css.map",
+    "public/minima.1711190230.js",
     "content/about/index.md",
     "themes/minima/images/tn.png",
     "themes/minima/images/screenshot.png",

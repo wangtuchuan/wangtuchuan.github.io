@@ -65,4 +65,11 @@ module.exports = async (params) => {
 ## 其他配置：
 1. [TOC侧边](https://www.sulvblog.cn/posts/blog/hugo_toc_side/)
 2. https://www.lilmp.com/2022-06-22/hugo-papermod-blog/#%e5%b0%87%e6%96%87%e7%ab%a0%e5%a4%a7%e7%b6%b1toc-table-of-content%e6%94%b9%e5%88%b0%e5%81%b4%e9%82%8a
-3. 
+
+
+## 测试表格
+|样式|体验|
+|---|---|
+|PaperMod|有点空洞|
+|GitHub|感觉刚刚好|
+|nani|纳尼|

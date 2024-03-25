@@ -16,6 +16,8 @@ draft: false
 ![image.png](https://pic.wtuchuan.com/tuchuang/2024/03/e9fbcfbc9fed4cd1b60ede62476d2b1e.png)
 
 在`templates` 目录下创建模板New Post.md
+
+
 ```
 ---
 title: "{{VALUE:articleTitle}}"
@@ -58,3 +60,9 @@ module.exports = async (params) => {
 ![image.png](https://pic.wtuchuan.com/tuchuang/2024/03/f62477314b1cc057ef8591db026c305a.png)
 ![image.png](https://pic.wtuchuan.com/tuchuang/2024/03/508d890725557b553fdcf96bcf4a20e5.png)
 ![image.png](https://pic.wtuchuan.com/tuchuang/2024/03/54b3df98111ae3ec5d6884100bd00771.png)
+
+
+## 其他配置：
+1. [TOC侧边](https://www.sulvblog.cn/posts/blog/hugo_toc_side/)
+2. https://www.lilmp.com/2022-06-22/hugo-papermod-blog/#%e5%b0%87%e6%96%87%e7%ab%a0%e5%a4%a7%e7%b6%b1toc-table-of-content%e6%94%b9%e5%88%b0%e5%81%b4%e9%82%8a
+3. 

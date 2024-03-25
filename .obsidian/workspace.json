@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f69ba8e39e8a1c09",
+        "id": "5702abdcb8374399",
         "type": "tabs",
         "children": [
           {
-            "id": "88e3c39b2aaf1c51",
+            "id": "29554abf62da04c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -147,21 +147,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88e3c39b2aaf1c51",
+  "active": "29554abf62da04c7",
   "lastOpenFiles": [
-    "templates/New Post.md",
-    "content/posts/2024-03-20-howtocreateblogonobsidian.md",
+    "public/assets/css/stylesheet.b53773d7274865056901e2e409027d29b887e6a9ec30bf3b3f8b15234708322d.css",
+    "public/assets/css/stylesheet.f4220e3d6b9913b946e81be032640d5b03b6607321f26b94aa029a018eff8ce8.css",
+    "public/assets/css/stylesheet.505c8dfbaeb745f5a592c7659bad60e9496d38889848148282c691c996625bdf.css",
+    "public/assets/css/stylesheet.4d0dfbdc90a40ecffda57d5e9639b27b3ac3f8d288cb2c4cbab98bbb610c2848.css",
+    "public/assets/css/stylesheet.d563c23366ad42d62fef144e53c610ef54edf4a5a6cd4b63dc4458d97ae80a41.css",
+    "public/assets/css/stylesheet.1b504a3cc7ec9aabea77e3399ff9ca1b3cd49ef55f8b0111feb4c68f39617925.css",
+    "public/assets/css/stylesheet.ca65142a4481c43cc8c0c0aa82293629638f98734492eb537cf94bcb42e32147.css",
+    "public/assets/css/stylesheet.eaa8a4c8a2895ff37ca28ec184d8d9e8321fe0f5bd9cc5f04d33248404edb6d1.css",
+    "public/assets/css/stylesheet.2075556873c4a2db7991e4c9584f6aff7e75f9cf41ef9907315e9b38bd6e455a.css",
+    "layouts/partials/header.html",
+    "public/assets/css/stylesheet.f4fb27abb16b3a322ce6b669eb9dea966e87961c040093499e378d50dccc32d5.css",
     "content/posts/2024-03-23-picgowithcfpicturebed.md",
-    "public/minima.1711190948.js",
-    "public/minima.1711190948.css",
-    "resources/_gen/assets/sass/main.scss_e1e8fe208ab6c4e9860a1cfed6888c95.json",
-    "resources/_gen/assets/sass/main.scss_e1e8fe208ab6c4e9860a1cfed6888c95.content",
-    "resources/_gen/assets/sass",
-    "resources/_gen/assets",
-    "resources/_gen",
-    "resources",
-    "public/minima.1711190948.css.map",
-    "public/minima.1711190230.js",
+    "archetypes/default.md",
+    "content/posts/2024-03-20-howtocreateblogonobsidian.md",
+    "content/search.md",
+    "content/archive.md",
+    "themes/PaperMod/images/tn.png",
+    "themes/PaperMod/images/screenshot.png",
+    "themes/PaperMod/README.md",
+    "templates/New Post.md",
     "content/about/index.md",
     "themes/minima/images/tn.png",
     "themes/minima/images/screenshot.png",
@@ -184,11 +191,6 @@
     "themes/minima/exampleSite/content/markdown-syntax.zh-cn.md",
     "themes/minima/static/texture.png",
     "themes/minima_bak/exampleSite/content/placeholder-text.md",
-    "themes/minima_bak/exampleSite/content/mermaid-graphs.md",
-    "themes/minima_bak/exampleSite/content/math-typesetting.md",
-    "themes/minima_bak/exampleSite/content/markdown-syntax.md",
-    "themes/minima_bak/exampleSite/content/instruction.md",
-    "themes/minima_bak/exampleSite/content/link.md",
     "themes/minima_bak/images/tn.png",
     "themes/minima_bak/images/screenshot.png",
     "themes/minima_bak/images/screenshot-dark.png",

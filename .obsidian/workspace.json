@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5702abdcb8374399",
+        "id": "c9b90ac9280b799c",
         "type": "tabs",
         "children": [
           {
-            "id": "29554abf62da04c7",
+            "id": "f1980704a9b83007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
+                "file": "templates/New Post.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "885a43457cc3f630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
+                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md",
+                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024-03-20-howtocreateblogonobsidian.md"
+                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md"
               }
             }
           }
@@ -147,8 +160,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29554abf62da04c7",
+  "active": "885a43457cc3f630",
   "lastOpenFiles": [
+    "templates/New Post.md",
+    "content/posts/2024-04-07-closecursorinputsuggestion.md",
+    "content/posts/2024-03-23-picgowithcfpicturebed.md",
+    "关闭.md",
+    "Untitled.md",
+    "kubectl",
+    "content/posts/2024-03-20-howtocreateblogonobsidian.md",
     "public/assets/css/stylesheet.a07cbee5c57d67c901453dd9b8b9dd5da5629b6465847b51de712d600ce2280a.css",
     "public/assets/css/stylesheet.10c4bc16157bd3a13f0ffa5525deba35e1b6f93205d8a99bb50729bd2de0d1af.css",
     "public/assets/css/stylesheet.8c11635d2f6f8921e859ba6895a5dfa4690a92d582ba030be905ff887d8fa727.css",
@@ -158,18 +178,13 @@
     "public/assets/css/stylesheet.ffeb80d90c2f77425fab748abf7aad589f0c0893bf3b03e8b7488b80259b4435.css",
     "public/assets/css/stylesheet.af3dd6a68572699c0c035456d188bfbf56869e4f5172340158d5d888f8bd80df.css",
     "layouts/partials/extend_head.html",
-    "public/assets/css/stylesheet.eae2350eeb624b75769b8a96c7390a333ba9f624a0244534b8a438c5fe823019.css",
-    "layouts/_default/_markup/render-codeblock.html",
     "layouts/_default/_markup/未命名.md",
-    "content/posts/2024-03-20-howtocreateblogonobsidian.md",
-    "content/posts/2024-03-23-picgowithcfpicturebed.md",
     "archetypes/default.md",
     "content/search.md",
     "content/archive.md",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
-    "templates/New Post.md",
     "content/about/index.md",
     "themes/minima/images/tn.png",
     "themes/minima/images/screenshot.png",
@@ -188,8 +203,6 @@
     "content/posts/2024-03-20-helloworld.md",
     "themes/minima/exampleSite/content/search.zh-cn.md",
     "themes/minima/exampleSite/content/search.md",
-    "themes/minima/exampleSite/content/mermaid-diagrams.md",
-    "themes/minima/exampleSite/content/markdown-syntax.zh-cn.md",
     "themes/minima/static/texture.png",
     "themes/minima_bak/images/tn.png",
     "themes/minima_bak/images/screenshot.png",

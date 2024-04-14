@@ -37,7 +37,10 @@ draft: false
 
 ## 2. PicGo 配置
 
-[下载 PicGo](*https://github.com/Molunerfinn/PicGo/releases)
+[下载 PicGo](https://github.com/Molunerfinn/PicGo/releases)
+
+> 如果遇到macOS系统安装完PicGo显示「文件已损坏」或者安装完打开没有反应
+> [PicGo FAQ 最后一条](https://github.com/Molunerfinn/PicGo/blob/dev/FAQ.md)
 
 下载 S3 插件
 

@@ -57,7 +57,10 @@
     {{- end }}
   </footer>
 
+  {{- if (.Param "comments") }}
   <div class="article-comments">{{- partial "comment/artalk" . -}}</div>
+  {{- end }}
+  
 </article>
 
 {{- end }}{{/* end main */}}

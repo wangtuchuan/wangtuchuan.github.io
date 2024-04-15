@@ -6,8 +6,8 @@ categories:
   - 折腾
 tags:
   - blog
-toc: false
-draft: true
+toc: true
+draft: false
 ---
 
 ## 服务器部署

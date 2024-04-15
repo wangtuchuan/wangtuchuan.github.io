@@ -43,6 +43,10 @@ params:
   tocopen: true
   globalFontFamily: LXGW WenKai
 
+  artalk:
+    server: 'https://artalk.wtuchuan.com'
+    site: '土川'
+
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true

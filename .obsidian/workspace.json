@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/New Post.md",
+                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "885a43457cc3f630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5ebcccc8ac5ada70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024-04-15-addartalktohugo.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-04-15-addartalktohugo.md",
+                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024-04-15-addartalktohugo.md",
+                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024-04-15-addartalktohugo.md"
+                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md"
               }
             }
           }
@@ -172,9 +147,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ebcccc8ac5ada70",
+  "active": "f1980704a9b83007",
   "lastOpenFiles": [
+    "templates/New Post.md",
+    "content/about/index.md",
+    "content/posts/2024-04-07-closecursorinputsuggestion.md",
+    "关闭.md",
+    "content/posts/2024-03-20-howtocreateblogonobsidian.md",
     "content/posts/2024-03-23-picgowithcfpicturebed.md",
+    "content/posts/2024-04-15-addartalktohugo.md",
     "public/lib/artalk/Artalk.js",
     "public/lib/artalk/Artalk.css",
     "public/lib/artalk",
@@ -183,14 +164,9 @@
     "static/lib/artalk/Artalk.js",
     "static/lib/artalk",
     "static/lib",
-    "content/posts/2024-04-15-addartalktohugo.md",
     "assets/lib/artalk/Artalk.js",
     "assets/lib/artalk/Artalk.css",
-    "content/posts/2024-04-07-closecursorinputsuggestion.md",
-    "templates/New Post.md",
-    "关闭.md",
     "Untitled.md",
-    "content/posts/2024-03-20-howtocreateblogonobsidian.md",
     "layouts/_default/_markup/未命名.md",
     "archetypes/default.md",
     "content/search.md",
@@ -198,7 +174,6 @@
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
-    "content/about/index.md",
     "themes/minima/images/tn.png",
     "themes/minima/images/screenshot.png",
     "themes/minima/images/screenshot-dark.png",

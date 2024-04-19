@@ -1,10 +1,11 @@
 ---
-title: 关闭 Sonoma 光标输入法提示
+title: 关闭 Sonoma 光标输入法提示（不推荐）
 slug: close-cursor-input-suggestion
 date: 2024-04-07T14:23:14+08:00
 categories:
   - 折腾
-tags: 
+tags:
+  - macos
 toc: false
 draft: false
 ---

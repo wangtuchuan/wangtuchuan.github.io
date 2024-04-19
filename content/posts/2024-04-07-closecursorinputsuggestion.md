@@ -10,6 +10,12 @@ toc: false
 draft: false
 ---
 
+
+{{< notice notice-warning >}}
+由于该配置会导致部分 APP 的光标不显示，所以不再推荐本教程
+{{< /notice >}}
+
+
 ![](https://pic.wtuchuan.com/tuchuang/2024/04/77b6c28db9fa3c54ebe79505d52cd492.png)
 ## 背景
 从 Sonoma 版本开始，切换中英文输入会有光标提示，但是这个提示动画的延迟大，且有几率带有卡顿。

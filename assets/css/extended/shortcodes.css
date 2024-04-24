@@ -227,3 +227,43 @@
     font-weight: 400;
   }
   
+  /* quote */
+  myblockquote.quote {
+    position: relative;
+    border: none;
+    color: #9f9f9f;
+  }
+  myblockquote.quote p {
+    font-family: "Noto Serif SC", serif;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 3em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+  }
+  myblockquote.quote p::before {
+    position: absolute;
+    left: 0;
+    content: "“";
+    font-family: "JetBrains Mono", serif;
+    font-size: 3em;
+    font-weight: bold;
+    line-height: 1;
+  }
+  myblockquote.quote.poetry {
+    display: table;
+    padding: 0;
+  }
+  myblockquote.quote.poetry::before {
+    left: -1em;
+  }
+  myblockquote.quote.poetry p:last-child {
+    margin: 0;
+  }
+  myblockquote.quote.en p {
+    line-height: 1.618;
+    text-align: left;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+  }

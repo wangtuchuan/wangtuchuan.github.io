@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c9b90ac9280b799c",
+        "id": "274251646410e8b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f1980704a9b83007",
+            "id": "14171da36cf57b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024-04-07-closecursorinputsuggestion.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fbbce0e9c7d9c3a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024-04-19-hugoblogtutorialextend.md",
-                "mode": "source",
+                "file": "templates/New Post.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024-04-19-hugoblogtutorialextend.md",
+                "file": "templates/New Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024-04-19-hugoblogtutorialextend.md",
+                "file": "templates/New Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024-04-19-hugoblogtutorialextend.md"
+                "file": "templates/New Post.md"
               }
             }
           }
@@ -160,20 +147,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbbce0e9c7d9c3a7",
+  "active": "14171da36cf57b6e",
   "lastOpenFiles": [
-    "content/posts/2024-04-07-closecursorinputsuggestion.md",
     "content/posts/2024-04-19-hugoblogtutorialextend.md",
+    "public/posts/hugo-blog-tutorial-extend/index.html",
+    "public/posts/hugo-blog-tutorial-extend",
+    "public/assets/css/stylesheet.c11d8c006d018eecb128e8723692ca828c09b535575fcb212aeb2e49074d15cc.css",
+    "layouts/shortcodes/quote.html",
+    "content/posts/2024-04-07-closecursorinputsuggestion.md",
     "public/assets/css/stylesheet.95a9a0b9b58361ba6fc8e18718a5d1192a4471c2e3079b6264a6d570f375bb7c.css",
     "layouts/shortcodes/github.html",
     "public/assets/css/stylesheet.95895d660c7e9704ac47ca9c574b4f5f9792c5438f8ba01b04552d338ab4b513.css",
     "layouts/shortcodes/notice.html",
     "layouts/shortcodes/notice.html'",
     "public/assets/css/stylesheet.e0d0365e522f820d2f9d8e4906bdef42d53b5f23b18e2141d8ff1618d7f26b6f.css",
-    "assets/css/extended/shortcodes.css",
-    "assets/scss/shortcodes.scss",
-    "assets/scss",
-    "public/assets/css/stylesheet.9b756672a024b3b6d94c1d7c6d3265f1395c60dd7c77b2e9c36263a83281e195.css",
     "themes/hugo-notice/screenshot.png",
     "themes/hugo-notice/icons/wolf-kit/warning.svg",
     "themes/hugo-notice/icons/wolf-kit/tip.svg",
@@ -206,7 +193,6 @@
     "themes/minima/exampleSite/content/chinese.md",
     "themes/minima/exampleSite/content/about.md",
     "themes/minima/docs/README_CN.md",
-    "themes/minima/archetypes/default.md",
-    "themes/minima/README.md"
+    "themes/minima/archetypes/default.md"
   ]
 }
